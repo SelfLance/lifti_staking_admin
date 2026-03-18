@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifti_staking_admin/static/css/main.f8dfeb50.css",
+    "main.js": "/lifti_staking_admin/static/js/main.da3cf6b1.js",
+    "static/js/453.3c43e5e0.chunk.js": "/lifti_staking_admin/static/js/453.3c43e5e0.chunk.js",
+    "index.html": "/lifti_staking_admin/index.html",
+    "main.f8dfeb50.css.map": "/lifti_staking_admin/static/css/main.f8dfeb50.css.map",
+    "main.da3cf6b1.js.map": "/lifti_staking_admin/static/js/main.da3cf6b1.js.map",
+    "453.3c43e5e0.chunk.js.map": "/lifti_staking_admin/static/js/453.3c43e5e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8dfeb50.css",
+    "static/js/main.da3cf6b1.js"
+  ]
+}
